@@ -1,0 +1,110 @@
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: white;
+    background-color: rgb(20, 184, 229);
+    clear: left;
+    text-align: left;
+}
+
+body {
+	background-color: rgb(239, 244, 244);
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: rgb(20, 184, 229);
+    clear: left;
+    text-align: center;
+}
+
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+    padding: 0;
+
+}
+
+#formheader {
+	float: right;
+	text-align: left;
+	margin-right: 5px; 
+}
+
+#left-header {
+	width: 400px;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	color: black;
+	margin: auto;
+}
+
+#justified-header {
+	text-align: justify;
+	font-size: 26px;
+
+}
+article {
+    margin-left: 200px;
+    padding: 1em;
+    overflow: auto;
+}
+
+#homepage-singup-form {
+	width: 400px;
+	float: right;
+	margin-right: 100px;
+	
+}
+
+.formbox {
+	width: 100%;
+	padding: 1px;
+}
+
+#f_name { 
+width: 45%; 
+float: left;}
+
+#l_name { 
+width: 45%; 
+float: right;
+}
+
+.createaccount {
+	background-color: rgb(25, 186, 11);
+    width: 169px;
+    height: 23px;
+    padding-top: 7px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    font-weight: 5px;
+}
+
+input {
+	display: block;
+}
